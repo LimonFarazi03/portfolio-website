@@ -1,0 +1,21 @@
+.logo img {
+  max-width: 110px;
+  max-height: 70px;
+}
+.CVbtn{
+  border: 2px solid #F75023;
+  padding: 0px 18px;
+  border-radius: 24px;
+  font-weight: 500;
+  transition: .4s;
+  color:F75023;
+}
+.CVbtn:hover{
+  background-color: #F75023;
+  border: 2px solid red;
+  color: white;
+  background-color: #F75023;
+}
+ul li{
+  font-weight: 500;
+}
