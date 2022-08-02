@@ -1,0 +1,16 @@
+.svgIcon{
+  width: 65px;
+  height: 65px;
+}
+.brush{
+  max-width: 90px;
+}
+@media only screen and (max-width: 600px) {
+  .avatarImg{
+    width: 290px;
+  }
+  .wrapper{
+    text-align: center;
+    margin-top: 34px;
+  }
+}

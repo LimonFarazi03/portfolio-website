@@ -1,12 +1,14 @@
 import './App.css';
+import About from './component/About';
 import Banner from './component/Banner';
 import NavigationBar from './component/NavigationBar';
 
 function App() {
   return (
-    <div className="max-w-7xl mx-auto">
+    <div className="">
       <NavigationBar />
       <Banner />
+      <About />
     </div>
   );
 }
