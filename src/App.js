@@ -1,5 +1,6 @@
 import './App.css';
 import About from './component/About';
+import AboutMe from './component/AboutMe';
 import Banner from './component/Banner';
 import NavigationBar from './component/NavigationBar';
 
@@ -9,6 +10,7 @@ function App() {
       <NavigationBar />
       <Banner />
       <About />
+      <AboutMe />
     </div>
   );
 }

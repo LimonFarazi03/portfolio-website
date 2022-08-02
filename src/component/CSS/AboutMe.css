@@ -1,0 +1,15 @@
+.springImg img{
+  position:absolute;
+  margin-left: 40px;
+  top: 20px;
+  left: 40px;
+}
+.springImg2 img{
+    position: absolute;
+    top: 400px;
+    right: -900px;
+}
+.teamImg img{
+  width: 100%;
+    margin: 0px 60px 0px 0px;
+}

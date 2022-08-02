@@ -18,7 +18,7 @@ const NavigationBar = () => {
   
   return (
     <div>
-      <div class="fixed navbar z-50">
+      <div class="sticky navbar z-50">
   <div class="navbar-start">
     <div class="dropdown">
       <label tabindex="0" class="btn btn-ghost lg:hidden">
